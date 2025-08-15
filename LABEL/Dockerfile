@@ -1,0 +1,4 @@
+FROM almalinux
+LABEL AUTHOR="PRAVEEN"/
+      COURSE="DOCKER"/
+      DURATION="25HRS"
