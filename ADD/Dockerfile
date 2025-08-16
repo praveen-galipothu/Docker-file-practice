@@ -1,2 +1,2 @@
 FROM almalinux
-ADD https://raw.githubusercontent.com/donnemartin/system-design-primer/refs/heads/master/.gitattributes /tmp
+ADD https://raw.githubusercontent.com/FedeCarollo/jukebox-cli/refs/heads/main/Cargo.toml /tmp
